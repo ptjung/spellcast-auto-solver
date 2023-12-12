@@ -1,0 +1,4 @@
+opencv_python_headless==4.8.1.78
+PyAutoGUI==0.9.53
+python-dotenv==1.0.0
+pyuac==0.0.3
