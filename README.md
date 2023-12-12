@@ -95,7 +95,7 @@ for automation. You can comment on the decorator within the script to test this
 functionality.
 
 ## Acknowledgements
-- Uses the dictionary file from a similar project: ![AaronLieb's SpellCastSolver](https://github.com/AaronLieb/SpellCastSolver)
+- This project uses the dictionary file from a similar project: [AaronLieb's SpellCastSolver](https://github.com/AaronLieb/SpellCastSolver)
 
 ## License
 Usage is provided under the [MIT License](http://opensource.org/licenses/mit-license.php). See LICENSE for the full details.
