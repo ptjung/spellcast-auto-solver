@@ -34,7 +34,7 @@ SWAP_OPTION_SIZE_PX - Number of pixels
 X_BASE_SWAP_OPTION_PX - Number of pixels from left of entire screen
 Y_BASE_SWAP_OPTION_PX - Number of pixels from top of entire screen
 ```
-The values to use should follow this guideline:
+The values to use should follow this guideline (cropped, coordinates should reflect whole screen!):
 
 <img src="https://i.imgur.com/z9dXkS8.png" width="300"> <img src="https://i.imgur.com/cUfbhlk.png" width="300">
 
