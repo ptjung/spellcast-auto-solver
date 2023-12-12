@@ -1,0 +1,1 @@
+# spellcast-auto-solver
